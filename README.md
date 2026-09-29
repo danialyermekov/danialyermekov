@@ -1,6 +1,6 @@
 # Danial Yermekov
 
-**ML Engineer / Data Scientist** based in Astana, Kazakhstan.
+**Data Scientist | ML Engineer** based in Astana, Kazakhstan.
 
 I focus on applied machine learning, especially tabular data, classification and end-to-end ML workflows.  
 Currently looking for a **Junior ML Engineer / Data Scientist** role.
