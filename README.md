@@ -1,4 +1,4 @@
-# Danial
+# Danial Yermekov
 
 **ML Engineer / Data Scientist** based in Astana, Kazakhstan.
 
