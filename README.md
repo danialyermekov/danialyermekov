@@ -61,4 +61,4 @@ A career recommendation system for IT students that combines machine learning, s
 
 **Engineering**
 
-`FastAPI` · `Docker` · `Git` · `pytest` · `Ruff` · `Pyright`
+`FastAPI` · `Docker` · `Git` · `pytest` · `Ruff` · `Pyright` · `GitHub Actions`
