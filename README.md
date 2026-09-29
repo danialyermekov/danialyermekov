@@ -62,14 +62,3 @@ A career recommendation system for IT students that combines machine learning, s
 **Engineering**
 
 `FastAPI` · `Docker` · `Git` · `pytest` · `Ruff` · `Pyright`
-
-## Currently Working On
-
-- Building end-to-end ML services around trained models
-- Strengthening SQL and ML system design fundamentals
-- Practicing EDA and model development on real-world datasets
-
-## Contact
-
-- **LinkedIn:** www.linkedin.com/in/danial-yermekov
-- **Email:** yermekovdanial@gmail.com
