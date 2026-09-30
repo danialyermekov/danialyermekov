@@ -35,7 +35,7 @@ Machine learning project completed during my internship at Kazakhstan Temir Zhol
 
 ---
 
-### [Career Recommendation System](YOUR_CAREER_RECOMMENDATION_LINK)
+### [Career Recommendation System](https://github.com/danialyermekov/Career-Recommendation-System)
 
 A career recommendation system for IT students that combines machine learning, skill matching and an AI advisor.
 
