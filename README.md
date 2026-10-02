@@ -21,7 +21,7 @@ Credit risk prediction using application and historical credit data.
 
 ---
 
-### [KTZ ML Internship](https://github.com/danialyermekov/Railway-Ticket-Sales-Forecasting-System)
+### [ Kazakhstan Temir Zholy ML Internship](https://github.com/danialyermekov/Railway-Ticket-Sales-Forecasting-System)
 
 Machine learning project completed during my internship at Kazakhstan Temir Zholy.
 
