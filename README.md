@@ -35,19 +35,18 @@ Machine learning project completed during my internship at Kazakhstan Temir Zhol
 
 ---
 
-### [Career Recommendation System](https://github.com/danialyermekov/Career-Recommendation-System)
+### [CareerFlow](https://github.com/danialyermekov/careerflow) | [Live App](https://careerflow.live/)
 
-A career recommendation system for IT students that combines machine learning, skill matching and an AI advisor.
+An end-to-end ML-powered career guidance platform that helps IT students explore career paths and build personalized learning roadmaps.
 
-- Used CatBoost to classify suitable career paths
-- Used LightGBM to estimate demand for IT professions
-- Applied TF-IDF to match user skills with profession requirements
-- Combined multiple model outputs into a weighted recommendation score
-- Added course recommendations for missing or in-demand skills
-- Integrated a Gemini-based AI advisor
-- Built the application with a FastAPI backend and React frontend
+- Developed a recommendation pipeline combining **CatBoost** classification, **TF-IDF** skill matching and **LightGBM** models trained on historical job-market data
+- Implemented weighted career ranking across **7 IT professions**, skill-gap analysis and SHAP-based explanations
+- Built personalized learning roadmaps with course recommendations, filtering and progress tracking
+- Integrated **Claude and Gemini AI advisors**, including a limited free Gemini preview
+- Added Google/GitHub OAuth authentication and persistent recommendation history using **Supabase PostgreSQL**
+- Built and deployed the application using **FastAPI, React, Docker and Azure Container Apps**, with automated CI through GitHub Actions
 
-**Stack:** `Python` `CatBoost` `LightGBM` `TF-IDF` `FastAPI` `React` `Gemini API`
+**Stack:** `Python` `CatBoost` `LightGBM` `scikit-learn` `TF-IDF` `SHAP` `FastAPI` `React` `PostgreSQL` `Supabase` `Docker` `Azure` `GitHub Actions`
 
 ## Tech Stack
 
