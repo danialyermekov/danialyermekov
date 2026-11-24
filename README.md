@@ -21,7 +21,7 @@ Credit risk prediction using application and historical credit data.
 
 ---
 
-### [ Kazakhstan Temir Zholy ML Internship](https://github.com/danialyermekov/Railway-Ticket-Sales-Forecasting-System)
+### [ Kazakhstan Temir Zholy ML Internship](https://github.com/danialyermekov/railway-ticket-forecast)
 
 Machine learning project completed during my internship at Kazakhstan Temir Zholy.
 
@@ -35,7 +35,7 @@ Machine learning project completed during my internship at Kazakhstan Temir Zhol
 
 ---
 
-### [CareerFlow](https://github.com/danialyermekov/careerflow) | [Live App](https://careerflow.live/)
+### [CareerFlow](https://github.com/danialyermekov/careerflow)
 
 An end-to-end ML-powered career guidance platform that helps IT students explore career paths and build personalized learning roadmaps.
 
